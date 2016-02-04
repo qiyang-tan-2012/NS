@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+# v1.1
+
+
+CACHE:
+favicon.ico
+images/SMU.png
+# https://github.com/qiyangtan/NS/settings
+https://wordpress.com/post/
+
+
+
+
+NETWORK:
+*
+
+FALLBACK:
+/ images/Error.png

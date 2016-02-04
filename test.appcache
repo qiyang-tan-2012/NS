@@ -1,0 +1,17 @@
+CACHE MANIFEST
+
+# v1
+
+
+CACHE:
+favicon.ico
+images/SMU.png
+https://github.com/qiyangtan
+https://www.youtube.com/feed/subscriptions
+
+
+NETWORK:
+*
+
+FALLBACK:
+/ images/Error.png
